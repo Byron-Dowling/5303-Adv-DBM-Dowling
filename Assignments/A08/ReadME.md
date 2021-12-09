@@ -45,7 +45,7 @@
 > - **Redis** is _**faster**_.
 > - **MySql** is the _**second fastest**_.
 > - **MongoDB** come in **_last place_**.
-> [img1](https://github.com/LoicKonan/5303-DB-Konan/raw/master/Assignments/A08/single.png)
+[img1](https://github.com/LoicKonan/5303-DB-Konan/raw/master/Assignments/A08/single.png)
 >
 <br/><br/>
 >
