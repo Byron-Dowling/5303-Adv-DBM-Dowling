@@ -1,0 +1,7 @@
+{
+    "host" : "localhost",
+    "user" : "admin",
+    "passwd" : "PorkandBeans",
+    "database" : "movies_db",
+    "auth_plugin" : "caching_sha2_password"
+}
