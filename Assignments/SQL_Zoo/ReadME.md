@@ -1,4 +1,4 @@
-## Assignment 4 - SqlZoo Answers & Data files for an API
+## Assignment 4 - SQL Zoo Answers & Data files for an API
 
 ### Byron Dowling
 
