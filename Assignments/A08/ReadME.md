@@ -27,7 +27,7 @@
 > - **MongoDB** is faster with the _**lowest time**_.
 > - **Redis** is the _**second fastest**_.
 > - **MySql** come in **_last place_**.
-> 
+> [img1](https://github.com/Byron-Dowling/5303-Adv-DBM-Dowling/blob/main/Assignments/A08/single.png?raw=true)
 >
 <br/><br/>
 >
