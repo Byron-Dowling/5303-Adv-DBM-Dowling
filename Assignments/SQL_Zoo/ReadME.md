@@ -16,6 +16,14 @@
 |   2   | SQL_Zoo_API                | Main Python file to help connect to my database | :ballot_box_with_check: |
 |   3   | mysqlCnx.py        | The mysql connection file                       | :ballot_box_with_check: |
 
+### SQL Zoo
+  * https://sqlzoo.net/wiki/SELECT_basics
+  * https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial
+  * https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial
+  * https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial
+  * https://sqlzoo.net/wiki/SUM_and_COUNT
+  * https://sqlzoo.net/wiki/The_JOIN_operation
+
 ### References
 
 |   #   | File                                                                                                   | Description               | Status                  |
