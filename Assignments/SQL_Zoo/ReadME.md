@@ -6,7 +6,7 @@
 
 - Created a local database of the SqlZoo data using the data files attached including, buses, nobel, euro2012, and teachers
 - Have the framework of an API but could not insert data into PHPmyAdmin to build the tables. 
-- After running into trouble there, I deleted and reinstalled PHPmyAdmin and was unable to get it properly reinstalled on my server.
+- After running into trouble there, I deleted and reinstalled PHPmyAdmin but was unable to get it properly reinstalled on my server.
 
 ### Files
 
