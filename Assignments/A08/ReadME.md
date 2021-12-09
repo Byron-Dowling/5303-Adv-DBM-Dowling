@@ -27,7 +27,7 @@
 > - **MongoDB** is faster with the _**lowest time**_.
 > - **Redis** is the _**second fastest**_.
 > - **MySql** come in **_last place_**.
-> [img1](https://github.com/Byron-Dowling/5303-Adv-DBM-Dowling/blob/main/Assignments/A08/single.png?raw=true)
+> <img src="single.png">
 >
 <br/><br/>
 >
@@ -36,7 +36,7 @@
 > - **MySql** is _**faster**_ when the _**size of N is smaller**_.
 > - **MongoDB** is the _**fastest**_ when the _**size of N get bigger**_.
 > - **Redis** come in **_last place_**.
-> 
+> <img src="multi.png">
 >
 <br/><br/>
 >
@@ -45,7 +45,7 @@
 > - **Redis** is _**faster**_.
 > - **MySql** is the _**second fastest**_.
 > - **MongoDB** come in **_last place_**.
-> 
+> <img src="update.png">
 >
 <br/><br/>
 >
@@ -54,7 +54,7 @@
 > - **Redis** is faster with the _**lowest time**_.
 > - **MySql** is the _**second fastest**_.
 > - **MongoDB** come in **_last place_**.
-> 
+> <img src="deletion.png">
 >
 <br/><br/>
 >
@@ -63,7 +63,7 @@
 > - **Redis** is faster with the _**lowest time**_.
 > - **MySql** is the _**second fastest**_.
 > - **MongoDB** come in **_last place_**.
-> 
+> <img src="update.png">
 >
 > <br/>
 > <br/>
