@@ -12,8 +12,8 @@
 
 |   #   | File                               | Description                                     | Status                  |
 | :---: | ---------------------------------- | ----------------------------------------------- | ----------------------- |
-|   1   | Sql_Zoo_Answers | The answers for the SqlZoo website              | :ballot_box_with_check: |
-|   2   | main.py                | Main Python file to help connect to my database | :ballot_box_with_check: |
+|   1   | Sql_Zoo | The answers for the SqlZoo website              | :ballot_box_with_check: |
+|   2   | SQL_Zoo_API                | Main Python file to help connect to my database | :ballot_box_with_check: |
 |   3   | mysqlCnx.py        | The mysql connection file                       | :ballot_box_with_check: |
 
 ### References
