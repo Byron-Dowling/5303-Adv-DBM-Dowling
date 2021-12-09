@@ -4,7 +4,7 @@
 
 #### Server info
 > - Api will run on port 8004 on this server **<http://143.244.188.178/:8004>**
-> - Front-End will run on port 3000 on this server **<http://167.99.3.85/:3000>**
+> - Front-End will run on port 3000 on this server **<http://143.244.188.178/:3000>**
 
 #### Description
 >
