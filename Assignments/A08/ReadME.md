@@ -5,8 +5,8 @@
 #### Description
 
 > - To compare and see the distinctions between **Redis and MongoDB and Mysql**.
-> - This experiment should **time each transaction and calculate averages**.
-> - each aggregation should be applied to a database that is configured with **slight differences**.
+> - This experiment should **time each transaction and calculate the averages**.
+> - Each aggregation should be applied to a database that is configured with **slight differences**.
 >
 > - Do **n searches for single values**.
 > - Do **n searches for multiple values**.
