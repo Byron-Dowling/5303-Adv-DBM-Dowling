@@ -1,6 +1,6 @@
 ## Assignment 7 - Advising Project
 
-### Deangelo Brown
+### Byron Dowling
 
 #### Server info
 > - Api will run on port 8004 on this server **<http://143.244.188.178/:8004>**
